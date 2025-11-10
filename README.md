@@ -122,9 +122,13 @@ sim_vehicle.py -v ArduCopter -f gazebo-iris --console --map
 
 ---
 
-## 🎥 Demo
-Add demo video link here once uploaded:  
-`https://github.com/your-username/DroneSpeak/assets/demo.mp4`
+## System Architecture
+<img width="774" height="434" alt="image" src="https://github.com/user-attachments/assets/57d9c325-d2bd-4597-8222-9221de2a97c2" />
+
+<img width="997" height="586" alt="image" src="https://github.com/user-attachments/assets/a9ef5d09-c536-4862-838b-d551d905e81c" />
+<img width="646" height="585" alt="image" src="https://github.com/user-attachments/assets/b5b0785f-8645-4079-93cb-3dfb9918c1da" />
+
+
 
 ---
 
