@@ -135,11 +135,6 @@ Add demo video link here once uploaded:
 - **Gazebo 7 + ArduPilot SITL** for simulation
 - **MAVLink Protocol** for flight communication
 
----
-
-## 👥 Contributors
-**Dontu Kowshik** — Gesture Recognition & WebSocket Bridge  
-**Team DroneSpeak** — Drone Simulation, MAVLink Control, Command Optimization  
 
 ---
 
